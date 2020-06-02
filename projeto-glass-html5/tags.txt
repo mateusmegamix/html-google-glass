@@ -1,0 +1,12 @@
+<pre>
+<code>
+#include &lt;iostream&gt;
+int main() {
+	cout << "Olá, Mundo!";
+	return 0;
+}
+</code>
+</pre>
+
+<p>Exemplos de <sup>Formatação</sup></p>
+<p> X<sup>2</sup> e H<sup>2</sup>O</p>
